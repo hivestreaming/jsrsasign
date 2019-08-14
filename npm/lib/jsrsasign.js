@@ -3,6 +3,7 @@ var navigator = {};
 navigator.userAgent = false;
 
 var window = {};
+var KJUR;
 /*
  * jsrsasign 5.0.12 (c) 2010-2016 Kenji Urushima | kjur.github.com/jsrsasign/license
  */
